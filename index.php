@@ -1,3 +1,6 @@
 <?php
+function pozdrav($text) {
+    return $text;
+}
 
-echo "ahoj";
+echo pozdrav("hovno");
